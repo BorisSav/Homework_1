@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+f = int(input())
+v=d*3600+e*60+f-(a*3600+b*60+c)
+print(v)
